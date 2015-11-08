@@ -1,0 +1,22 @@
+receiver.swf Movie Report
+--------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1           9822           9822    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                   710
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Video Terminal Screen          9087     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+               710    Scene 1:Layer 1:1
+
+
+
+

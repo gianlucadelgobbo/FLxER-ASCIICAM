@@ -1,0 +1,33 @@
+﻿<flash_project name="asciicam" version="1">
+    <project_folder name="classi" expanded="true">
+        <project_folder name="comp" expanded="true">
+            <project_file path=".:classi/comp/SliderCh.as" filetype="as" />
+            <project_file path=".:classi/comp/ListMenu.as" filetype="as" />
+            <project_file path=".:classi/comp/ListBoxCam.as" filetype="as" />
+            <project_file path=".:classi/comp/ListBox.as" filetype="as" />
+            <project_file path=".:classi/comp/ButtonArrow.as" filetype="as" />
+            <project_file path=".:classi/comp/CheckBoxBase.as" filetype="as" />
+            <project_file path=".:classi/comp/ButtonBase.as" filetype="as" />
+            <project_file path=".:classi/comp/ButtonTxt.as" filetype="as" />
+            <project_file path=".:classi/comp/ButtonRett.as" filetype="as" />
+        </project_folder>
+        <project_folder name="main" expanded="true">
+            <project_file path=".:classi/main/Txt.as" filetype="as" />
+            <project_file path=".:classi/main/DrawerFunc.as" filetype="as" />
+            <project_file path=".:classi/main/NetVideo.as" filetype="as" />
+            <project_file path=".:classi/main/Rett.as" filetype="as" />
+            <project_file path=".:classi/main/TxtStyle.as" filetype="as" />
+        </project_folder>
+        <project_folder name="myClass" expanded="false">
+            <project_file path=".:classi/myClass/SelCam.as" filetype="as" />
+            <project_file path=".:classi/myClass/CamMenu.as" filetype="as" />
+            <project_file path=".:classi/myClass/PagCam.as" filetype="as" />
+            <project_file path=".:classi/myClass/BoxCam.as" filetype="as" />
+        </project_folder>
+        <project_folder name="core" expanded="true">
+            <project_file path=".:classi/core/ThumbSaver.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_file path=".:starter.as" filetype="as" />
+    <project_file path=".:asciicam.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
